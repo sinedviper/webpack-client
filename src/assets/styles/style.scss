@@ -1,0 +1,24 @@
+$green: #007242;
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+	outline: none;
+}
+
+body {
+	color: #afff92;
+	background-color: $green;
+	font-size: 30px;
+}
+
+.main {
+	display: block;
+	padding: 20px;
+	margin: 0 auto;
+	text-align: center;
+	max-width: 400px;
+	width: 100%;
+}
